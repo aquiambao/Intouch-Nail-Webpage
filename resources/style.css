@@ -170,12 +170,14 @@ footer {
   .gallery {
     display: flex;
     flex-direction: column;
-    padding: 5rem;
-    margin-top: -20rem;
+    padding: 2rem;
+    margin-top: -25rem;
+    width: 100%;
   }
 
   .img-gallery {
     width: 100%;
+    padding: 0
   }
 
   .mission {
@@ -185,10 +187,11 @@ footer {
 
   .mission h1 {
     font-size: 2rem;
+    margin-top: -10rem;
   }
 
   .serv-icon {
-    width: 40%;
+    width: 100%;
   }
 
   .serv-icon span {
@@ -207,6 +210,22 @@ footer {
   }
   .footer img {
     height: 2rem;
+  }
+
+  .image {
+    margin-top: -25%;
+  }
+
+  .banner a {
+    margin-top: -90%;
+    padding: -3rem;
+    margin-left: 1rem;
+  }
+
+  .img-gallery a {
+    margin-top: -50%;
+    padding: -3rem;
+    margin-left: 1rem;
   }
 
 }
