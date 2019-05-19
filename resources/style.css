@@ -10,7 +10,7 @@ h1 {
 }
 
 .container {
-  background-color: white;
+  background-color: #F8F9FA;
 }
 
 .top {
@@ -37,7 +37,6 @@ flex: 1;
 margin: auto !important;
 display: flex;
 justify-content: space-between;
-background-color: white;
 }
 
 .bg-light {
@@ -100,6 +99,10 @@ background-color: white;
 
 .mission {
   width: 40%;
+}
+
+.mission h3{
+  color: #859E35;
 }
 
 .icons {
@@ -201,6 +204,7 @@ footer {
   .footer {
     padding: 5rem 5rem;
     justify-content: center;
+    border-top: 10px solid #859E35;
   }
 
   .hours {
