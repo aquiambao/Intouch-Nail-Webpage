@@ -14,7 +14,7 @@ h1 {
 }
 
 .top {
-  background-color: #9CCC65;
+  background-image: linear-gradient(#ADFFAD,#9CCC65);
   height: 5rem;;
   font-size: 1.2rem;
   padding: .5rem, 5rem;
@@ -33,7 +33,9 @@ h1 {
   display: flex;
   justify-content: flex-end;
   flex-direction: column;
+  color: white;
 }
+
 
 nav {
   background-color: #F8F9FA;
@@ -68,7 +70,7 @@ justify-content: space-around;
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
-  background-color: #006630;
+  background-image: linear-gradient(#006630,#013017);
   padding: 0
 }
 
@@ -192,7 +194,8 @@ display: block;
 }
 
 footer {
-  background-color: #9CCC65;
+  border-top: 5px solid green;
+  background-image: linear-gradient(#ADFFAD,#9CCC65);
 }
 
 .footer {
