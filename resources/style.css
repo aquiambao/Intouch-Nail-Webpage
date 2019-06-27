@@ -186,6 +186,7 @@ display: block;
 .serv-icon img {
   display: block;
   align-self: center;
+  width: 100%;
 }
 
 .serv-icon span {
