@@ -235,8 +235,12 @@ footer {
   }
 
   .deals {
-    margin-left: -1rem;
+    margin-left: -3rem;
     font-size: 1.2rem;
+    text-align: center;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
   }
   .banner {
     height: 25rem;
